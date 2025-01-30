@@ -1,6 +1,6 @@
 .env
-./poetry.lock
-./pyproject.toml
+poetry.lock
+pyproject.toml
 ./minio
 ./pg_data
 __pycache__/
