@@ -1,0 +1,8 @@
+.env
+./poetry.lock
+./pyproject.toml
+./minio
+./pg_data
+__pycache__/
+*.csv
+*.pkl
